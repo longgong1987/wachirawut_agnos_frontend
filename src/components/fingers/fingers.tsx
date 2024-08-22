@@ -25,7 +25,7 @@ export const Fingers: FC = () => {
                     <h1 className="text-lg font-bold text-center m-4">จุดไหนที่คุณปวดนิ้วมากที่สุด ?</h1>
                     <div className="relative">
                         <Image
-                            src="/images/finger/default-finger.png"
+                            src="/images/fingers/default-finger.png"
                             priority={true}
                             alt="fingers"
                             width="0"
